@@ -4,6 +4,24 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/compose-model-1638537305416.xml" value="0.3188344594594595" />
+        <entry key="../../../../layout/compose-model-1638539582157.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1638540018596.xml" value="1.5" />
+        <entry key="../../../../layout/compose-model-1638541291492.xml" value="0.55" />
+        <entry key="../../../../layout/compose-model-1638542561138.xml" value="0.3768518518518518" />
+        <entry key="../../../../layout/compose-model-1638543704953.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1638685755086.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1638700848459.xml" value="0.10740740740740741" />
+        <entry key="../../../../layout/compose-model-1638800284598.xml" value="0.33425925925925926" />
+        <entry key="../../../../layout/compose-model-1638882937366.xml" value="0.375" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28888888888888886" />
+        <entry key="app/src/main/res/drawable/avatar_diuwuxian.xml" value="0.10462962962962963" />
+        <entry key="app/src/main/res/drawable/ic_bg_newyear_left.xml" value="0.2388888888888889" />
+        <entry key="app/src/main/res/drawable/ic_bg_newyear_right.xml" value="0.2388888888888889" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.28888888888888886" />
+        <entry key="app/src/main/res/drawable/ic_logo.xml" value="0.3828125" />
+        <entry key="app/src/main/res/drawable/ic_me_filled.xml" value="0.10462962962962963" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.28888888888888886" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
       </map>
     </option>
   </component>
